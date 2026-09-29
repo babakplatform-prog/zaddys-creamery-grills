@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-script {
+    font-family: 'Alex Brush', 'Great Vibes', cursive;
+  }
+  .font-serif-luxury {
+    font-family: 'Cormorant Garamond', Garamond, 'Times New Roman', Georgia, serif;
+  }
+  .font-sans-ui {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Subtle luxury grain texture overlay for menu card */
+.paper-grain {
+  background-color: #faf7f2;
+  background-image: radial-gradient(rgba(0, 0, 0, 0.02) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+

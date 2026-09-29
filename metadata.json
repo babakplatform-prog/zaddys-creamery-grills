@@ -1,0 +1,6 @@
+{
+  "name": "Zaddys Creamery & Grill",
+  "description": "Artisanal menu and direct Paystack ordering for Zaddys Creamery & Grill.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
